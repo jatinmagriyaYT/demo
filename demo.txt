@@ -6,6 +6,7 @@ Git push --set-upstream  origin branch name
 add canges in file 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 sdafsdfdsfsdfsdfsf
 fgdfgf
 =======
@@ -27,3 +28,9 @@ j2 added
 sdfsdfs
 >>>>>>> main
 >>>>>>> master
+=======
+sdfs
+
+for j4
+sdfsdf
+>>>>>>> j1
