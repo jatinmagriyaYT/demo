@@ -4,5 +4,21 @@ git chekout
 Git push --set-upstream  origin branch name 
 
 add canges in file 
+<<<<<<< HEAD
 sdafsdfdsfsdfsdfsf
 fgdfgf
+=======
+sdafsdf
+<<<<<<< HEAD
+df"as
+f
+
+dfsdfas
+
+dsf
+=======
+
+j2 added
+sdfsdfs
+>>>>>>> main
+>>>>>>> master
