@@ -5,8 +5,13 @@ Git push --set-upstream  origin branch name
 
 add canges in file 
 <<<<<<< HEAD
+<<<<<<< HEAD
 sdafsdfdsfsdfsdfsf
 fgdfgf
+=======
+sdafsdf\
+sgsdfg
+>>>>>>> j5.1
 =======
 sdafsdf
 <<<<<<< HEAD
