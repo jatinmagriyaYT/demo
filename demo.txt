@@ -1,0 +1,6 @@
+git branch # kitni brnch bani he 
+git branch name 
+git chekout 
+Git push --set-upstream  origin branch name 
+
+add canges in file 
